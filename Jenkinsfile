@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo "Building.."
                 sh 'pwd'
-                echo "build complete"
+                echo "build complete."
                 
             }
         }
